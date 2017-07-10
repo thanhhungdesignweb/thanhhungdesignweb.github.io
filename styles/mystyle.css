@@ -84,13 +84,13 @@ a:hover{
 
 #header .header-style{
     background-color: rgba(0, 0, 0, 0.6);
-	padding: 0 0 100px;
+	padding: 0 0 70px;
 }   
 
 #header .header-top{
 	background-color: rgba(0, 0, 0, 0.9);
 	padding: 10px 0;
-	margin-bottom: 100px;
+	margin-bottom: 70px;
 }
 
 #header .header-top .social-header-top .date-top{
@@ -326,7 +326,9 @@ blockquote {
 #sidebar{
 	margin-bottom: 20px;
 }
-
+.thumbnail-post{
+	padding: 0px;
+}
 #sidebar .widget-sidebar{
 	background-color: #fff;
 	padding: 20px;
